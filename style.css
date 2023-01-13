@@ -188,7 +188,7 @@ nav .fa{
 @media(max-width: 700px){
 		.process-col p{
 		font-size: 12px;
-	}
+		}
 		.process-col h1{
 			font-size: 24px;
 		}
@@ -196,7 +196,7 @@ nav .fa{
 			font-size: 14px;
 		}
 		.process-col img{
-			width: 90%;
+			width: 80%;
 		}
 }
 
