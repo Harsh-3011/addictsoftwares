@@ -185,6 +185,18 @@ nav .fa{
 	transition: 0.5s;
 }
 
+@media(max-width: 700px){
+		.process-col p{
+		font-size: 12px;
+	}
+		.process-col h1{
+			font-size: 24px;
+		}
+		.process-col h3{
+			font-size: 14px;
+		}
+}
+
 /*-----courses-------------*/
 .course{
 	width: 80%;
