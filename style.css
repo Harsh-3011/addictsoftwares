@@ -28,6 +28,7 @@ header.sticky{
 	padding: 2% 6%;
 	justify-content: space-between;
 	text-align: center;
+	align-items: center;
 }
 nav img{
 	width: 220px;
@@ -236,14 +237,13 @@ p{
 	flex-basis: 45%;
 	background: #C9E586;
 	border-radius: 10px;
-	margin-bottom: 5%;
+	margin-bottom: 0%;
 	padding: 20px 12px;
 	box-sizing: border-box;
 	transition: 0.5s;
 
 }
 .row-one{
-	margin-top: 2%;
 	display: flex;
 	justify-content: space-between;
 }
@@ -251,13 +251,12 @@ p{
 	flex-basis: 45%;
 	background: #C9E586;
 	border-radius: 10px;
-	margin-bottom: 2%;
+	margin-bottom: 0%;
 	padding: 20px 12px;
 	box-sizing: border-box;
 	transition: 0.5s;
 }
 .row-two{
-	margin-top: 2%;
 	display: flex;
 	justify-content: space-between;
 }
@@ -265,14 +264,13 @@ p{
 	flex-basis: 45%;
 	background: #C9E586;
 	border-radius: 10px;
-	margin-bottom: 2%;
+	margin-bottom: 0%;
 	padding: 20px 12px;
 	box-sizing: border-box;
 	transition: 0.5s;
 }
 
 .row-three{
-	margin-top: 2%;
 	display: flex;
 	justify-content: space-between;
 }
@@ -280,7 +278,7 @@ p{
 	flex-basis: 45%;
 	background: #C9E586;
 	border-radius: 10px;
-	margin-bottom: 2%;
+	margin-bottom: 0%;
 	padding: 20px 12px;
 	box-sizing: border-box;
 	transition: 0.5s;
